@@ -3,6 +3,6 @@
 
 ### 2. The data
 
-### 3. Methods used
+### 3. Methods used:bar_chart:
 
 ### 4. Results and Recommendation
